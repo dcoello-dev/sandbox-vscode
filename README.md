@@ -4,6 +4,7 @@ Easily access and execute your ideas and notes
 
 ## Features
 
+![intro](./doc/intro.gif)
 
 ## Requirements
 
